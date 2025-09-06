@@ -1,1 +1,12 @@
 
+I.	SCENARIO: The software developer working for the school newspaper system just resigned from his role and he’s left maintenance tasks yet to be completed. The school administrator is asking for the following in the system:
+
+A.	The school newspaper system’s UI design should look more modern, education-themed and involve kid-friendly design. You may add new icons/images/pages or even cartoon characters. 
+
+B.	An image should be able to be included in each article. 
+
+C.	An admin should be able to delete a post from a writer, and then notify the author which one of his articles was deleted. 
+
+D.	A writer should be able to ask an article for an edit request. The article’s author should be notified of this and he’s given the option to either accept or reject the edit request. 
+
+E.	If a writer is given edit access to an article, it should be shown inside a page called “shared_articles.php”, so you have to create this new template in the project.
