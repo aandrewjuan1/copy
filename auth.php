@@ -11,3 +11,8 @@
         }
         return false;
     }
+<?php
+echo password_hash("admin123", PASSWORD_DEFAULT) . PHP_EOL;
+echo password_hash("writer123", PASSWORD_DEFAULT) . PHP_EOL;
+echo password_hash("password", PASSWORD_DEFAULT) . PHP_EOL;
+echo password_hash("secret123", PASSWORD_DEFAULT) . PHP_EOL;
